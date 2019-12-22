@@ -16,4 +16,3 @@ It is source to home view of portfolio, that is written by vanilla script
 
 6. ui - test
 
-7. ui - deploy
