@@ -1,5 +1,5 @@
 const path = require('path');
-const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+// const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
   mode: 'development',
@@ -27,7 +27,7 @@ module.exports = {
   },
   devtool: 'inline-source-map',
   plugins: [
-    new CleanWebpackPlugin(),
+
   ],
   // Most important
   optimization: {
